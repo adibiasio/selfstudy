@@ -5,3 +5,6 @@ This is a record of my efforts to self-study various topics within Computer Scie
 https://teachyourselfcs.com
 
 https://www.bodunhu.com/blog/posts/machine-learning-system-resources/
+
+https://faculty.cc.gatech.edu/~zk15/teaching/AY2025_cs8803vlm_fall/index.html
+
